@@ -1,6 +1,7 @@
 # Welcome to the GitHub Project Management repository
 :tada:
 :tada:
+:stuck_out_tongue_closed_eyes:
 
 This repository was created as a resource for folks learning how to use GitHub as a collaborative project management tool. :octocat:
 
